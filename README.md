@@ -29,4 +29,15 @@ Explore my projects, track my journey, and discover how I solve real-world probl
 
 ![Screenshot 01](src/assets/01.png)
 ![Screenshot 02](src/assets/02.png)
-![Screenshot 03](src/assets/03.png)
+![Screenshot 03](src/assets/03.png)                        
+
+
+
+
+📫 Contact
+
+Email: shashanksharma7581@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/cs-shashank-sharma/
+
+Twitter: https://x.com/Shashank8839
